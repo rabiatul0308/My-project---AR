@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="04_candi_tua" size="1.000000 1.419106" />
+    <ImageTarget name="03_prasasti_kedukan_bukit" size="1.000000 1.419106" />
+    <ImageTarget name="02_candi_muara_takus" size="1.000000 1.419106" />
+    <ImageTarget name="01_prasasti_telaga_batu" size="1.000000 1.419106" />
+    <ImageTarget name="prasasti-muara-batu" size="10.000000 10.862471" />
+    <ImageTarget name="Multi1" size="10.000000 5.865071" />
+    <ImageTarget name="images5" size="100.000000 66.894531" />
+  </Tracking>
+</QCARConfig>
